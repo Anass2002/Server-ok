@@ -1,0 +1,1 @@
+Voor deze oefening is er alleen de standaard Python-bibliotheken nodig.
